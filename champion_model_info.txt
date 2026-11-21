@@ -1,0 +1,1 @@
+Champion model: Logistic Regression\nBest CV ROC-AUC: 0.666875\nBest parameters: {'classifier__C': 0.1}\n
